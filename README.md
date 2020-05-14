@@ -1,1 +1,1 @@
-"# python-examples-turkmence" 
+Bu repositoryda men Python ulanyp ýönekeý programmalary gurmaga çalyşjak
