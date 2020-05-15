@@ -1,4 +1,4 @@
-# This program generates random number at given range
+# Bu programma berlen san aralygynda tötänleýin san print edýär
 
 import random
 

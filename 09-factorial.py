@@ -1,6 +1,6 @@
-# This program calculates n factorial
+# Bu programma n faktoriýal hasaplaýar
 
-num = int(input("Enter number: "))
+num = int(input("San giriz: "))
 
 fact = 1
 for i in range(1,num+1):

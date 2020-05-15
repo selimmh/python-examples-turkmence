@@ -1,6 +1,6 @@
-# This program checks if number is positive or negative or 0
+# Bu programma berlen sanyň alamatyny aýdýar
 
-num = float(input("Enter number: "))
+num = float(input("San giriz: "))
 
 if num > 0:
     print("Positive")
@@ -9,4 +9,4 @@ elif num < 0:
     print("Negative")
 
 else:
-    print("Zero")
+    print("Nol")

@@ -3,9 +3,9 @@
 
 import cmath
 
-a = int(input("Enter a: "))
-b = int(input("Enter b: "))
-c = int(input("Enter c: "))
+a = int(input("Giriz a: "))
+b = int(input("Giriz b: "))
+c = int(input("Giriz c: "))
 
 # diskriminant
 d = (b**2) - (4*a*c)

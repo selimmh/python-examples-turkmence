@@ -1,10 +1,10 @@
-# This program calculates sum of integers up to given range using list
+# Bu programma, berlen sana çenli bitin sanlaryň jemini hasaplaýar
 
-num = int(input("Enter number: "))
+num = int(input("San giriz: "))
 my_list = []
 
 if num < 0:
-    print("Enter positive number")
+    print("Positiv san giriz")
 
 else:
     for i in range(0,num):

@@ -1,15 +1,15 @@
-# This program checks if number is prime or not
+# Bu programma berlen sanyň ýönekeý ýa-da däldigini barlaýar (prime number)
 
-num = int(input("Enter number: "))
+num = int(input("San giriz: "))
 
 if num > 1:
    for i in range(2,num):
         if (num % i) == 0:
-           print("Not prime")
+           print("Ýönekeý däl")
            break
         else:
-            print("Prime")
+            print("Ýönekeý")
             break
 
 else:
-   print("Not prime, n < 1")
+   print("Ýönekeý däl, n < 1")
